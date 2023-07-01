@@ -1,1 +1,19 @@
+body  {
+    Background-color: #006400;
+    color: #FAFAD2;
+    font-family: Courier New, monospace;
+    margin: 10% 10%  
+}
 
+.exp-header {
+  text-transform: uppercase;
+  border-top: 2px solid #FAFAD2;
+  border-bottom: 2px solid #FAFAD2;
+  text-align: center
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+    text-transform: uppercase;
+  }
