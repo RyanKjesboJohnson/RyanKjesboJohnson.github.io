@@ -1,6 +1,6 @@
 body  {
-    Background-color: #006400;
-    color: #FAFAD2;
+    Background-color: #563f46;
+    color: #c8c3cc;
     font-family: Courier New, monospace;
     margin: 10% 10%  
 
@@ -8,10 +8,15 @@ body  {
 
 .exp-header {
   text-transform: uppercase;
-  border-top: 2px solid #FAFAD2;
-  border-bottom: 2px solid #FAFAD2;
+  border-top: 2px solid #8ca3a3;
+  border-bottom: 2px solid #8ca3a3;
   text-align: center
     
+}
+
+.about-border {
+  border: 2px solid;
+  text-align: center
 }
 
 aside {
@@ -20,11 +25,20 @@ aside {
   margin-left: 15px;
   float: right;
   font-style: italic;
-  border: 2px solid
 }
 
 h1 {
   font-size: 60px;
   text-align: center;
-    text-transform: uppercase;
+  text-transform: uppercase;
   }
+
+h2{
+  font-size: 25px;
+  display: flex;
+  align-items: stretch;
+  }
+
+h3{
+  font-size: 15px;
+}
