@@ -18,8 +18,7 @@ body  {
 .about-border {
   border: 2px solid #8ca3a3;
   text-align: center;
-  
-}
+  }
 
 aside {
   width: 30%;
@@ -41,3 +40,6 @@ h2{
   text-align: center;
   }
 
+h4{
+  font-size: 20px
+}
