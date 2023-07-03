@@ -7,16 +7,18 @@ body  {
 }
 
 .exp-header {
+  font-size: 20px;
   text-transform: uppercase;
   border-top: 2px solid #8ca3a3;
   border-bottom: 2px solid #8ca3a3;
-  text-align: center
+  text-align: center;
     
 }
 
 .about-border {
-  border: 2px solid;
-  text-align: center
+  border: 2px solid #8ca3a3;
+  text-align: center;
+  
 }
 
 aside {
@@ -25,6 +27,7 @@ aside {
   margin-left: 15px;
   float: right;
   font-style: italic;
+  text-align: center;
 }
 
 h1 {
@@ -35,10 +38,5 @@ h1 {
 
 h2{
   font-size: 25px;
-  display: flex;
-  align-items: stretch;
+  text-align: center;
   }
-
-h3{
-  font-size: 15px;
-}
